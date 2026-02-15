@@ -36,4 +36,4 @@
 
 ## Fully Finished Projects ##
 
-  -  dirt cleaning sim [https://github.com/Skye-Gardner/Dirt-cleaning-sim]
+  -  [dirt cleaning sim] (https://github.com/Skye-Gardner/Dirt-cleaning-sim)
