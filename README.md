@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there, My name is [Your Name]!
 
 <!--
 **Skye-Gardner/Skye-Gardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## Tech & Tools:
+
+  - **Languages**: Python, C++, C#, 
+  - **Currently Learning**: Linux
+  - **Tools**: VS Code, Git, 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
