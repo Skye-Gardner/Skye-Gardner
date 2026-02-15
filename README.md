@@ -1,22 +1,37 @@
-## Hi there, My name is [Your Name]!
-
-<!--
-**Skye-Gardner/Skye-Gardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 📖 About Me
+  -  Uses  She/They pronouns
+  -  Software Developer
+  -  Game Developer
+  -  use linux mint
+  -  
 
 ## Tech & Tools:
 
-  - **Languages**: Python, C++, C#, 
-  - **Currently Learning**: Linux
+  - **Languages**: Python, C++, C#, Luau, 
+  - **Currently Learning**: Linux, Lua, Kotlin and Java
   - **Tools**: VS Code, Git, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current Projects
+
+    - Building a game in Lua
+    - Building a local music player in android studio
+    - Managing a home server
+
+## Info on projects:
+
+  1. ### Managing a home server ###
+     - utilize Linux to revive a old laptop for server purposes
+     - learned how to make a in network media server
+     - meny issues was solved to completly power on this (mainy user error)
+  
+  2. ### local music player ###
+     - idea for the futcer
+     - would utilize kotlin and java in android studio
+  
+  3. ### Game in Lua ###
+     - utilizing Love2D and the frame work
+     - the skills i wil learn is working with 2d code without a interface
+     - currently ongoing will update when finished
+
+## Fully Finished Projects ##
